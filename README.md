@@ -1,5 +1,5 @@
 # appinfo
-Returns demo application meta information for mobile app.  The api binds /v1/app_info/:system which accept "iOS" or "Android" as the :system parameter.  Minimum version and latest version of the requested system is returned.
+Returns demo application meta information for mobile app.  The api binds /v1/app_info/:system which accepts "iOS" or "Android" as the :system parameter.  Minimum version and latest version of the requested system is returned.
 
 # Usage
 API takes API_ENPOINT in host:port format as the binding address from environmental variable.

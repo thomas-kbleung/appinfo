@@ -1,0 +1,10 @@
+### Get app info for Android
+GET http://localhost:8080/v1/app_info/Android
+Content-Type: application/json
+Accept: application/json
+
+
+### Get app info for iOS
+GET http://localhost:8080/v1/app_info/iOS
+Content-Type: application/json
+Accept: application/json

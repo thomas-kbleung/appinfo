@@ -16,11 +16,11 @@ Sample request for each system can be found in the [example rest file](examples/
 # Build
 Build the project with Makefile. Default build target builds the executable.  
 ```console
-Make
+make
 ```
 
 Clean up the binary file with Make clean.
 ```console
-Make clean
+make clean
 ```
 
